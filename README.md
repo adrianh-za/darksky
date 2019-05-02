@@ -1,5 +1,5 @@
 # darksky
-Library written in Go to allow query of weather conditions from Dark Sky
+Library written in Go to allow querying of weather conditions from Dark Sky
 
 ## Usage ##
 
