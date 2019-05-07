@@ -9,6 +9,6 @@ Documentation for the Dark Sky API can be found at https://darksky.net/dev/docs
 
 ## Acknowledgements ##
 
-This project draws inspiration from <b>Martin-Louis Bright</b> and his Dark Sky Go library.
+This project draws inspiration from <b><a href="https://github.com/mlbright" target="_blank">Martin-Louis Bright</a></b> and his Dark Sky Go library.
 
-Please find his library at https://github.com/mlbright/darksky
+Please find his library for Dark Sky at https://github.com/mlbright/darksky
