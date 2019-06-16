@@ -7,6 +7,11 @@ You will need to create an (free) account at https://darksky.net/dev
 
 Documentation for the Dark Sky API can be found at https://darksky.net/dev/docs
 
+1) go get github.com/adrianh-za/go-darksky
+2) browse to $/go/src/github.com/adrianh-za/go-darksky/examples
+3) sudo -E go run main.go
+4) run until end
+
 ## Acknowledgements ##
 
 This project draws inspiration from <b><a href="https://github.com/mlbright" target="_blank">Martin-Louis Bright</a></b> and his Dark Sky Go library.
