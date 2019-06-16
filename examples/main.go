@@ -24,7 +24,7 @@
 package main
 
 import (
-	darksky "github.com/adrianh-za/darksky"
+	darksky "github.com/adrianh-za/go-darksky"
 	log "github.com/sirupsen/logrus"
 )
 
