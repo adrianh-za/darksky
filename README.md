@@ -1,3 +1,10 @@
+Apple acquired Dark Sky on 31 March 2020 and this has affected the API which this repository relies on.
+
+>Our API service for existing customers is not changing today, but we will no longer accept new signups. The API will continue to function through the end of 2021.
+
+https://blog.darksky.net/dark-sky-has-a-new-home/
+
+
 # darksky
 Library written in Go to allow querying of weather conditions from Dark Sky
 
